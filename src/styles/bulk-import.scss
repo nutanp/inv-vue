@@ -1,0 +1,40 @@
+.el-table__row .el-input .el-input__inner{
+    border-style:none;
+  }
+  .hover-row .el-input .el-input__inner{
+    border-style:solid;
+  }
+  .el-table div, .el-table__row el-input{
+    font-size:12px;
+  }
+  div.filter {
+    float: left;
+    width: 150px;
+    margin-bottom: 10px;
+  }
+  div.filter input.el-input__inner {
+    height: 30px;
+    font-size: 12px;
+  }
+  div.sbmRqst {
+    margin-bottom: 5px;
+    float: right;
+  }
+  div.typeFld {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  div.ImpBox {
+    margin-bottom: 10px;
+  }
+  .el-table td {
+    padding: 0px;
+  }
+  .el-card__body {
+    padding: 10px;
+  }
+  a.link-style {
+    cursor: pointer;
+    color: #0069aa;
+    font-size: 14px;
+  }
